@@ -7,6 +7,8 @@ Los cuales se dividen en lo siguiente:
 
     1- Semantich Search (Deep Learning)
     2- Text classification (Fine Tunning - LoRA)
+    3- resultado_clasificador.json
+    4- resultado_semantic_search.json
 
 ## Semantic Search
 La primera solucion se encuentra en el archivo:
