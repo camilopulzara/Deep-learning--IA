@@ -1,5 +1,5 @@
 
-# Prueba tecnica Cientifico de Datos 
+# Deep Learning
 
 En este repositorio se encuentran 2 soluciones posibles al problema de ranking planteado en el archivo prueba_tecnica_IA.pdf.
 
